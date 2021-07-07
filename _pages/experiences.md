@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Researches:
+------
 
 * Parker’s BioRC project	
   *	Implemented VLSI circuit implementation of excitatory/inhibitory synapses, Axon Hillock, STDP/dopamine/noise synapse, edge detectors, voltage adder.
@@ -39,7 +40,48 @@ Researches:
   *	Assisted in designing a neural-signal sampling device
   *	Used Opal-Kelly’s API to realize data transfer between FPGA and PC; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end
 
+Internships:
+------
+
 * Summer Internship, Shanghai AIKE Measurement Co.      	July 2018 – August 2018
   *	Learned to use LabView to sample data and control hardware
   *	Assisted in designing the structure of a dispenser for lab usage
   *	kept track of daily tasks and progress for the team
+
+Activitites/Projects:
+------
+* EE380: Video Game Programming	
+  *	Implemented 2D classical Arcade games such as Zelda, Super Mario, PAC-MAN
+  *	Implemented 3D games such as Mario Cars, FPS, Parkor game
+  *	Learned to program game engines using C++ and SDL libraries
+
+* LAHACK 2020 Mobile App: Go Eat
+  *	Developed a cross-platform app that recommends restaurants based on user preferences
+  *	Created KNN and genetic models to recommend restaurants given user and restaurant features
+  *	Utilized Firebase to store and fetch data
+
+* LAHACK 2019 Game: Mind Palace
+  *	Developed a game that trains players’ mnemonic technique
+  *	Designed game stages and implemented them with SDL library 
+  *	Utilized Google Cloud API to extract key information from sentences
+
+* Arcade Game “SPLATOON”
+  *	Designed a 2D-board Splatoon game that runs on a Xilinx FPGA Spartan 6, implemented with Verilog
+  *	Integrated joystick module for user control and VGA module for image display 
+
+* Home Light System IoT Project
+  *	Developed a remote light control system running on Raspberry Pi
+  *	Fetched data from light sensor and transmit it through OpenMote
+  *	Utilized MQTT library to transmit data and control illumination
+
+* Web Game “Mission Universe”
+  *	Created a web-based, multiplayer jet-fighting game, using HTML, JavaScript, Java
+  *	Utilized Phaser API to construct game elements and WebSocket to transmit data in multiplayer mode
+
+* Code Compiler
+  *	Implemented a compiler that parses a realistic program into tree structure, with Bison and C++
+  *	Generated assembly language and computed values of variables and memories
+  
+* Accelerometer
+  *	Developed an accelerometer running on Arduino
+  *	Integrated a rotary encoder to set threshold and a buzzer to present speed, controlled by interrupt
