@@ -10,37 +10,41 @@ redirect_from:
 
 This is Haoqin Deng's homepage
 
-Haoqin D
-
-Getting started
+About
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I am currently an undergraduate student at the Department of Electrical and Computer Engineering, University of Southern California. I am expected to receive the B.E./M.E. degree in Electrical and Computer Engineering in 2022.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+My current research intersts include:
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* Parker’s BioRC project	
+  *	Implemented VLSI circuit implementation of excitatory/inhibitory synapses, Axon Hillock, STDP/dopamine/noise synapse, edge detectors, voltage adder.
+  *	Used above components to construct multi-layer neural networks; incorporated edge detectors and one-hot encoding outputs
+  *	Used STDP rule for local update of synaptic weights; used dopamine feedback (supervised training) signal to globally modulate synaptic weights;
+  *	Currently writing pytorch-based library that allows for convenient construction of software neural network for verification purpose, and that can synthesize a functioning VLSI circuit bases on the software construction
+* Khajavikhan Optics and Photonics Group
+  *	Explored various architectures of Optical Neural Network(ONN), with an emphasis on integrable setups
+  *	Develop PT-ONN architecture, which utilized cascading PT-symmetric couplers to build an ONN; 
+  *	Modulated gain/loss contrast as the on-chip parameters; simulated onchip-training of PT-ONN on MINIST dataset; computed gradients using finite difference method and updated parameters using SGD; achieve 67% training accuracy.
+  *	Simulated onchip-training of a conventional ONN made of cascading Mach-Zehnder interferometers with tunable phases; achieved 71% training accuracy on MINIST dataset 
+  *	Co-author of the paper “Parity-time symmetric optical neural networks” currently under review
+* Research Assistant, USC Laboratory for Photons, Electrons and Materials	Jun 2020 – present
+  *	Studied principles of materials growth technique, including evaporation, TLP, LP-TLP, MOCVD; learned to operate machines to grow materials using these techniques.
+  *	Studied the computational model of neurons and its hardware emulation with semiconductor devices such as memristors and MOSFETS
+  *	Explored various architectures of mapping Artificial Neural Networks and Spiking Neural Networks onto available hardware synapse/neuron devices; 
+  *	Simulated DCSNN(Deep Convolutional Spiking Neural Network); used STDP local updating rule that incorporates realistic hardware parameters; used Reward/Punishing signals to globally adjust STDP polarity; implemented with Pytorch libraries; achieved 91% best training accuracy.
+  *	Designed hardware implementation of a neural network using crossbars of floating-gate MOSFET devices.
+* Research Assistant, USC ALCHEM Lab	May 2019 – Aug 2020
+  *	Studied mechanism of quantum computing and various quantum algorithms; learned to use quantum libraries such as qiskit and pyqpanda
+  *	Developed accQOC, a comprehensive compilation methodology that accelerates pulse generation by 9x
+  *	Partition DAG of quantum circuit into sub-components under size constraint; generated optimized pulse for each component using QOC, and concatenated them in the end.
+  *	Implemented Variational Eigen-Solver algorithm from scratch using pyqpanda library; 
+  *	implemented simultaneous-measurement methodology for mutually commuting Hamiltonians to reduce measurement overhead in Variational Eigen-Solver algorithm; 
+  *	Coauthor of the paper “Accelerating Quantum Optimal Control Based Pulse Generation”, ISCA2020
+* Research Assistant, USC IMEDE Lab	Mar 2019 – Mar 2020
+  *	Assisted in designing a neural-signal sampling device
+  *	Used Opal-Kelly’s API to realize data transfer between FPGA and PC; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end
+* Summer Internship, Shanghai AIKE Measurement Co.      	July 2018 – August 2018
+  *	Learned to use LabView to sample data and control hardware
+  *	Assisted in designing the structure of a dispenser for lab usage
+  *	kept track of daily tasks and progress for the team
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
