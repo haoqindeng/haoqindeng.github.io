@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-![CV pdf](/images/cv.pdf)
+[CV pdf](https://haoqindeng.github.io/images/cv.pdf)
 
 Education
 ======
