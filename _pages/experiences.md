@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Experiences"
+permalink: /experiences/
 author_profile: true
 ---
 
-Experiences:
+Researches:
 
 * Parker’s BioRC project	
   *	Implemented VLSI circuit implementation of excitatory/inhibitory synapses, Axon Hillock, STDP/dopamine/noise synapse, edge detectors, voltage adder.
@@ -38,7 +38,7 @@ Experiences:
 * Research Assistant, USC IMEDE Lab	Mar 2019 – Mar 2020
   *	Assisted in designing a neural-signal sampling device
   *	Used Opal-Kelly’s API to realize data transfer between FPGA and PC; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end
-  
+
 * Summer Internship, Shanghai AIKE Measurement Co.      	July 2018 – August 2018
   *	Learned to use LabView to sample data and control hardware
   *	Assisted in designing the structure of a dispenser for lab usage
