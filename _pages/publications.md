@@ -11,10 +11,12 @@ author_profile: true
   *	Accepted. [Preprint](https://arxiv.org/abs/2003.00376)
   *	Jinglei Cheng, Haoqin Deng, Xuehai Qian
   *	2020 Annual International Symposium on Computer Architecture, ISCA
+
   ![img_accqoc](/images/accqoc2.png)
 
 * Parity-time symmetric optical neural networks 
   *	Under review.
   *	Haoqin Deng, Mercedeh Khajavikhan
   *	Optica, OSA
+  
   ![img_ptonn](/images/ptonn.png)
