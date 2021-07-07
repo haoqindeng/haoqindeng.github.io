@@ -7,13 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+![CV pdf](/images/cv.pdf)
 
 Education
 ======
 * B.S. USC
 * M.S. USC
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
