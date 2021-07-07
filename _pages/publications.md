@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 About me
 ======
 * AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation
