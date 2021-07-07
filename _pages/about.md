@@ -16,6 +16,38 @@ I am currently an undergraduate student at the Department of Electrical and Comp
 
 My current research intersts include:
 
+* Optical/Photonic Computing
+* Quantum Computing
+* Neuromorphic Computing
+* Machine Learning Acceleration with Emerging Technologies
+* Software/Hardware Co-design
+
+Skills
+======
+* Programming/Software
+  * Python
+  * C/C++
+  * Java
+  * Pytorch
+  * Qiskit
+  * pyqpanda
+  * Verilog
+  * Cadence
+
+Related Course
+======
+* EE301: Linear System
+* EE370: Electromagnetism
+* EE477: VLSI 
+* EE520: Introduction to Quantum Computing
+* EE582: Neuromorphic Computing
+* CSCI201: Pinciple of Software Engineering
+* CSCI270: Introduction to Algorithms
+* CSCI104: Objected Oriented Programming
+* CSCI310: Internetworking
+* ITP445: Professional C++
+* ITP380: Video Game Programming
+
 * Parker’s BioRC project	
   *	Implemented VLSI circuit implementation of excitatory/inhibitory synapses, Axon Hillock, STDP/dopamine/noise synapse, edge detectors, voltage adder.
   *	Used above components to construct multi-layer neural networks; incorporated edge detectors and one-hot encoding outputs
