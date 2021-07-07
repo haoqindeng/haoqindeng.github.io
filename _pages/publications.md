@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-======
+
 * AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation
   *	Accepted. [Preprint](https://arxiv.org/abs/2003.00376)
   *	Jinglei Cheng, Haoqin Deng, Xuehai Qian
@@ -14,9 +14,10 @@ author_profile: true
 
   ![img_accqoc](/images/accqoc2.png)
 
+
 * Parity-time symmetric optical neural networks 
   *	Under review.
   *	Haoqin Deng, Mercedeh Khajavikhan
   *	Optica, OSA
-  
+
   ![img_ptonn](/images/ptonn.png)
