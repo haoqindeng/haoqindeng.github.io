@@ -13,18 +13,6 @@ Education
 ======
 * B.S. ECE, University of Southern California; GPA: 3.68/4.0
 * M.S. EE, University of Southern California; GPA: 4.0/4.0
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
