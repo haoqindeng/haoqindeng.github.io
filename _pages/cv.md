@@ -25,7 +25,7 @@ Researches
 * Research Assistant, Parker’s BioRC project	(Jun 2021 – present)
   * Implemented VLSI circuits of excitatory/inhibitory synapses, Axon Hillock, STDP/dopamine/noise synapse, edge detectors, voltage adder; constructed hardware/software multi-layer neural networks with edge detectors and one-hot encoding outputs, with Cadence/Python
   * Used STDP rule for local update of synaptic weights; used dopamine feedback (supervised training) signal to globally modulate synaptic weights;
-  * Currently writing pytorch-based library that allows for convenient construction of software neural network for verification purpose, and that can synthesize a functioning VLSI circuit bases on the software construction
+  * Currently developing pytorch-based library that allows for convenient construction of software neural network for verification purpose, and that can synthesize a functioning VLSI circuit based on the software construction
 * Khajavikhan Optics and Photonics Group (Jun 2021 – present)
   * Researched on various architectures of Optical Neural Network(ONN), with an emphasis on chip-integrable setups
   * Proposed and Developed PT-ONN architecture with cascading PT-symmetric couplers, based on modulations of gain/loss contrast; implemented simulations of onchip-training of PT-ONN using finite difference method with python; achieved 67% training accuracy.
@@ -70,7 +70,7 @@ Activities/Projects
 * Video Game Programming	
   *	Implemented 2D classical Arcade games such as Zelda, Super Mario, PAC-MAN
   *	Implemented 3D games such as Mario Cars, FPS, Parkor game
-  *	programmed game engines using C++ and SDL libraries
+  *	Programmed game engines using C++ and SDL libraries
 * Mobile App: Go Eat
   *	Developed a cross-platform app that recommends restaurants based on users’ preferences
   *	Created KNN and genetic models to recommend restaurants given users’ and restaurants’ features
