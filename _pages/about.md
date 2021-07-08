@@ -19,7 +19,7 @@ My current research interests include:
 * Machine Learning Acceleration with Emerging Technologies
 * Software/Hardware Co-design
 
-My personal hobbies include cooking dark cuisines, reading sci-fi/detective/fan-fi novels, playing Hearthstone.
+My personal hobbies include reading sci-fi/fan-fi/detective novels, playing Hearthstone, cooking dark cuisines.
 
 Skills
 ======
