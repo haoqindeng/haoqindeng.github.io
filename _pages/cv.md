@@ -32,18 +32,6 @@ Skills
 *	Programming languages: C/C++, Python, Java, Verilog
 *	Tools & Softwares: Pytorch, Qiskit, pyqpanda, Cadence, ModelSim
 
-Publications
-======
-* AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation
-  *	Accepted. [Preprint](https://arxiv.org/abs/2003.00376)
-  *	Jinglei Cheng, Haoqin Deng, Xuehai Qian
-  *	2020 Annual International Symposium on Computer Architecture, ISCA
-
-* Parity-time symmetric optical neural networks 
-  *	Under review.
-  *	Haoqin Deng, Mercedeh Khajavikhan
-  *	submitted to Optica, OSA
-
 Researches
 ======
 * Research Assistant, Parker’s BioRC project	(Jun 2021 – present)
@@ -68,12 +56,24 @@ Researches
   * Realized data transfer between FPGA and PC using Opal-Kelly’s API; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end with matplotlib library
 
 
+Publications
+======
+* AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation
+  *	Accepted. [Preprint](https://arxiv.org/abs/2003.00376)
+  *	Jinglei Cheng, Haoqin Deng, Xuehai Qian
+  *	2020 Annual International Symposium on Computer Architecture, ISCA
+
+* Parity-time symmetric optical neural networks 
+  *	Under review.
+  *	Haoqin Deng, Mercedeh Khajavikhan
+  *	submitted to Optica, OSA
+
 Internships
 ======
 
-* Summer Internship, Shanghai AIKE Measurement Co.      	July 2018 – August 2018
-  *	Learned to use LabView to sample data and control hardware
-  *	Assisted in designing the structure of a dispenser for lab usage
+* Summer Internship, Shanghai AIKE Measurement Co. (July 2018 – August 2018)
+  *	Automated printers to print labels on a pipeline using Labview
+  *	Corroborated on designing the structure of a dispenser for lab usage
   *	kept track of daily tasks and progress for the team
 
 Activities/Projects
