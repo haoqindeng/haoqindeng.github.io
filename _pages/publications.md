@@ -18,6 +18,6 @@ author_profile: true
 * Parity-time symmetric optical neural networks 
   *	Under review.
   *	Haoqin Deng, Mercedeh Khajavikhan
-  *	Optica, OSA
+  *	Submitted to Optica, OSA
 
   ![img_ptonn](/images/ptonn.png)
