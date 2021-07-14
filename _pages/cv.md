@@ -49,13 +49,13 @@ Researches:
 * **USC ALCHEM Lab**<br/>
   *Research Assistant; Supervised by* ***Prof. Xuehai Qian*** *; May 2019 – Sept 2020*
   * Developed Accelerating Quantum Optimal Control (accQOC), a comprehensive compilation methodology that accelerates pulse generation by 9X 
-    *	partitioned DAG of quantum circuit into sub-components under size constraint
-    *	generated optimized pulse for each component using QOC
-    *	balance partitionioned MST computing nodes for efficient parallel computation, using METIS
-  *	Worked on optimization of VQE(Variational Quantum Eigen-solver) algorithm
-    *	self-implemented VQE circuits with pyqpanda
-    *	optimized VQE measurement overhead through joint measurement of commuting Hamiltonians, projecting LI basis terms onto qubit computational basis using stabilizer formalism
-    *	attempted pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
+    * partitioned DAG of quantum circuit into sub-components under size constraint
+    * generated optimized pulse for each component using QOC
+    * balance partitionioned MST computing nodes for efficient parallel computation, using METIS
+  * Worked on optimization of VQE(Variational Quantum Eigen-solver) algorithm
+    * self-implemented VQE circuits with pyqpanda
+    * optimized VQE measurement overhead through joint measurement of commuting Hamiltonians, projecting LI basis terms onto qubit computational basis using stabilizer formalism
+    * attempted pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
 
 * **USC IMEDE Lab**<br/>	
   *Research Assistant; Supervised by* ***Prof. Manual Monge*** *; Mar 2019 – Mar 2020*
