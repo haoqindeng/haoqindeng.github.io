@@ -8,8 +8,8 @@ author_profile: true
 Researches:
 ------
 
-* Research Assistant, Parker’s BioRC project	\
-  *(Jun 2021 – present)*
+* Research Assistant, Parker’s BioRC project<br/>
+  lalala*(Jun 2021 – present)*
   * Implemented VLSI circuits of excitatory/inhibitory synapses, Axon Hillock, STDP/dopamine/noise synapse, edge detectors, voltage adder; constructed hardware/software multi-layer neural networks with edge detectors and one-hot encoding outputs, with Cadence/Python
   * Used STDP rule for local update of synaptic weights; used dopamine feedback (supervised training) signal to globally modulate synaptic weights;
   * Currently developing pytorch-based library that allows for convenient construction of software neural network for verification purpose, and that can synthesize a functioning VLSI circuit based on the software construction
