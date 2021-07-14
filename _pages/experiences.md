@@ -39,7 +39,7 @@ Researches:
     *	balance partitionioned MST computing nodes for efficient parallel computation, using METIS
   *	Worked on optimization of VQE(Variational Quantum Eigen-solver) algorithm
     *	self-implemented VQE circuits with pyqpanda
-    *	optimized VQE measurement overhead through joint measurement of commuting Hamiltonians, projecting LI basis terms onto qubit computational basis using stabilizer formalism
+    *	optimized VQE measurement overhead through joint measurement of commuting Hamiltonians,<br/> projecting LI basis terms onto qubit computational basis using stabilizer formalism
     *	attempted pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
 
 * **USC IMEDE Lab**<br/>	

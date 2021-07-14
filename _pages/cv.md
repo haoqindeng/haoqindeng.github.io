@@ -96,7 +96,7 @@ Hackthones
   *	Extract key information from sentences with Google Cloud API for grading purpose
 
 
-Activities/Projects
+Class Projects
 ======
 * CMOS VLSI 
   *	Implemented a 32 bit MAC unit with Brent-kung Adder and Array Multiplier; 
