@@ -37,9 +37,9 @@ Researches:
     *	partitioned DAG of quantum circuit into sub-components under size constraint
     *	generated optimized pulse for each component using QOC
     *	balance partitionioned MST computing nodes for efficient parallel computation, using METIS
-  *	Worked on optimization of VQE(Variational Quantum Eigen-solver) algorithm
-    *	self-implemented VQE circuits with pyqpanda
-    *	optimized VQE measurement overhead through joint measurement of commuting Hamiltonians,<br/> projecting LI basis terms onto qubit computational basis using stabilizer formalism
+  * Worked on optimization of VQE(Variational Quantum Eigen-solver) algorithm
+    * self-implemented VQE circuits with pyqpanda
+    * optimized VQE measurement overhead through joint measurement of commuting Hamiltonians, projecting LI basis terms onto qubit computational basis using stabilizer formalism
     *	attempted pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
 
 * **USC IMEDE Lab**<br/>	
@@ -81,7 +81,7 @@ Hackthones
   *	Extract key information from sentences with Google Cloud API for grading purpose
 
 
-Activities/Projects
+Class Projects
 ------
 * CMOS VLSI 
   *	Implemented a 32 bit MAC unit with Brent-kung Adder and Array Multiplier; 
