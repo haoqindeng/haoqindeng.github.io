@@ -8,25 +8,29 @@ author_profile: true
 Researches:
 ------
 
-* Research Assistant, Parker’s BioRC project<br/>
+* BioRC Group<br/>
   *Research Assistant, supervised by* ***Prof. Alice Parker****; Jun 2021 – present*
   * Implemented VLSI circuits of excitatory/inhibitory synapses, Axon Hillock, STDP/dopamine/noise synapse, edge detectors, voltage adder; constructed hardware/software multi-layer neural networks with edge detectors and one-hot encoding outputs, with Cadence/Python
   * Used STDP rule for local update of synaptic weights; used dopamine feedback (supervised training) signal to globally modulate synaptic weights;
   * Currently developing pytorch-based library that allows for convenient construction of software neural network for verification purpose, and that can synthesize a functioning VLSI circuit based on the software construction
-* Khajavikhan Optics and Photonics Group (Jun 2021 – present)
+* Khajavikhan Optics and Photonics Group<br/>
+  *Research Assistant, Supervised by* ***Prof. Mercedeh Khajavikhan****; Jun 2021 – present*
   * Researched on various architectures of Optical Neural Network(ONN), with an emphasis on chip-integrable setups
   * Proposed and Developed PT-ONN architecture with cascading PT-symmetric couplers, based on modulations of gain/loss contrast; implemented simulations of onchip-training of PT-ONN using finite difference method with python; achieved 67% training accuracy.
   * Worked on ebwm simulations of directional couplers in COMSOL; calculated system transfer matrix with Mathematica.
   * Reproduced onchip-training of MZI-based ONN with python; achieved 71% training accuracy 
-* Research Assistant, USC Laboratory for Photons, Electrons and Materials	(Jun 2020 – Jan 2021)
+* USC Laboratory for Photons, Electrons and Materials<br/>
+  *Research Assistant, Supervised by* ***Prof. Rehan Kapadia*** *; Jun 2020 – Jan 2021*
   * Grew InP on GaAs using Low-Temperature Templated Liquid-Phase(LT-TLP)  
   * Researched on various architectures of mapping Artificial Neural Networks and Spiking Neural Networks onto semiconductor synapse/neuron devices
   * Worked on simulation of temporal-encoded DCSNN(Deep Convolutional Spiking Neural Network) based on realistic hardware STDP parameters and reward modulation, implemented with Pytorch libraries; achieved 91% best training accuracy.
   * Collaborated on designing hardware implementation of a neural network using Arduino and crossbars of floating-gate MOSFET devices.
-* Research Assistant, USC ALCHEM Lab	(May 2019 – Aug 2020)
+* USC ALCHEM Lab<br/>
+  *Research Assistant, Supervised by* ***Prof. Xuehai Qian*** *; May 2019 – Sept 2020*
   * Developed accQOC, a comprehensive compilation methodology that accelerates pulse generation by 9X; partitioned DAG of quantum circuit into sub-components under size constraint; generated optimized pulse for each component using QOC 
   * Implemented VQE(Variational Eigen-Solver) algorithm with pyqpanda; implemented simultaneous measurement methodology for mutually commuting Hamiltonians to reduce measurement overhead in VQE with qiskit.
-* Research Assistant, USC IMEDE Lab	(Mar 2019 – Mar 2020)
+* USC IMEDE Lab<br/>	
+  *Research Assistant, Supervised by* ***Prof. Manual Monge*** *; Mar 2019 – Mar 2020*
   * Corroborated on designing a neural-signal sampling device
   * Realized data transfer between FPGA and PC using Opal-Kelly’s API; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end with matplotlib library
 
