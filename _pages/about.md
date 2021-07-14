@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently an undergraduate student at the Department of Electrical and Computer Engineering, University of Southern California. I am expected to receive B.E./M.E. degrees in Electrical and Computer Engineering in 2022.
+I am currently an undergraduate student at the Department of Electrical and Computer Engineering, University of Southern California. I am expected to receive B.S./M.S. degrees in Electrical and Computer Engineering in 2022.
 
 My current research interests include:
 
