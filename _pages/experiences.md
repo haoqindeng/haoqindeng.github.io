@@ -60,7 +60,7 @@ Internships
 Hackthones
 ------
 
-* Mobile App: Go Eat
+* [Mobile App: Go Eat](https://devpost.com/software/go-eat)
   *	Developed a cross-platform app that recommends restaurants based on users’ preferences
   *	Developed KNN and genetic models to recommend restaurants given users’ and restaurants’ features
   *	Implemented data fetching as storage using Firebase
