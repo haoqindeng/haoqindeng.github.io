@@ -20,4 +20,4 @@ author_profile: true
   *	*Haoqin Deng, Mercedeh Khajavikhan*
   *	Submitted to Optica, OSA
 
-  ![img_ptonn](/images/ptonn3.png)
+  ![img_ptonn](/images/ptonn4.png)
