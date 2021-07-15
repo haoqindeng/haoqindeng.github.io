@@ -47,18 +47,7 @@ Researches:
   * Corroborated on designing a neural-signal sampling device
   * Realized data transfer between FPGA and PC using Opal-Kelly’s API; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end with matplotlib library
 
-
-Publications
-------
-* AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation
-  *	Accepted. [Preprint](https://arxiv.org/abs/2003.00376)
-  *	Jinglei Cheng, Haoqin Deng, Xuehai Qian
-  *	2020 Annual International Symposium on Computer Architecture, ISCA
-
-* Parity-time symmetric optical neural networks 
-  *	Under review.
-  *	Haoqin Deng, Mercedeh Khajavikhan
-  *	Submitted to Optica, OSA
+  
 
 Internships
 ------

@@ -35,16 +35,24 @@ Skills
 
 Related Course
 ======
-* EE301: Linear System
-* EE370: Electromagnetism
-* EE477: VLSI 
+* EE301: Linear Systems 
+* EE370: Electromagnetism 
+* EE354: Introduction to Digital Circuits
+* EE348: Electronic Circuits
+* EE451: Parallel and Distributed Computation
+* EE457: Computer System Organization
+* EE477: MOS VLSI Circuit Design
+* EE459: Embedded System Design Laboratory
 * EE520: Introduction to Quantum Computing
 * EE582: Neuromorphic Computing
+* EE540: Quantum Electronics 
 * CSCI201: Pinciple of Software Engineering
-* CSCI270: Introduction to Algorithms
+* CSCI270: Introduction to Algorithms and Theory of Computing
 * CSCI104: Objected Oriented Programming
-* CSCI310: Internetworking
+* CSCI353: Internetworking
+* Math 407: Propability Theory
+* Math 445: Mathematics of Physics and Engineering
 * Phys438: Introduction to Quantum Mechanics
+* Phys304: Mechanics
 * ITP445: Professional C++
 * ITP380: Video Game Programming
-
