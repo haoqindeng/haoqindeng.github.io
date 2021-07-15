@@ -24,7 +24,7 @@ Researches:
   * Reproduced on-chip training of MZI-based ONN with python; achieved 71% training accuracy on MNIST
 
 * **USC Laboratory for Photons, Electrons and Materials**<br/>
-  *Research Assistant; Supervised by* ***Prof. Rehan Kapadia*** *; Jun 2020 – Jan 2021*
+  *Research Assistant; Supervised by* ***Prof. Rehan Kapadia****; Jun 2020 – Jan 2021*
   *	Researched on various architectures of mapping ANN/SNN onto hardware using semiconductor devices that mimic functions of synapses, neurons
   *	Simulated a rate-encoded convolutional SNN on MNIST digit recognition task with Pytorch and GPU acceleration, incorporating InP-synapse STDP parameters, with 71% accuracy
   *	Simulated a temporal-encoded SNN on MNIST digit recognition task with Python and GPU acceleration, incorporating InP-synapse STDP parameters; achieved 89% accuracy
@@ -32,7 +32,7 @@ Researches:
   *	Grew InP on GaAs using Low-Temperature Templated Liquid-Phase(LT-TLP)  technique.
 
 * **USC ALCHEM Lab**<br/>
-  *Research Assistant; Supervised by* ***Prof. Xuehai Qian*** *; May 2019 – Sept 2020*
+  *Research Assistant; Supervised by* ***Prof. Xuehai Qian****; May 2019 – Sept 2020*
   * Developed Accelerating Quantum Optimal Control (accQOC), a comprehensive compilation methodology that accelerates pulse generation by 9X 
     * partitioned DAG of quantum circuit into sub-components under size constraint
     * generated optimized pulse for each component using QOC
@@ -43,11 +43,11 @@ Researches:
     * attempted pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
 
 * **USC IMEDE Lab**<br/>	
-  *Research Assistant; Supervised by* ***Prof. Manual Monge*** *; Mar 2019 – Mar 2020*
+  *Research Assistant; Supervised by* ***Prof. Manual Monge****; Mar 2019 – Mar 2020*
   * Corroborated on designing a neural-signal sampling device
   * Realized data transfer between FPGA and PC using Opal-Kelly’s API; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end with matplotlib library
 
-  
+
 
 Internships
 ------
