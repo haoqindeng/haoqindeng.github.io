@@ -23,7 +23,7 @@ My personal hobbies include reading sci-fi/fan-fi/detective novels, playing Hear
 
 Skills
 ======
-* Programming/Software
+Programming/Software
   * Python
   * C/C++
   * Java
@@ -37,12 +37,12 @@ Publications
 ======
 * AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation
   *	Accepted. [Preprint](https://arxiv.org/abs/2003.00376)
-  *	Jinglei Cheng, Haoqin Deng, Xuehai Qian
+  *	Jinglei Cheng, **Haoqin Deng**, Xuehai Qian
   *	2020 Annual International Symposium on Computer Architecture, ISCA
 
 * Parity-time symmetric optical neural networks 
   *	Under review.
-  *	Haoqin Deng, Mercedeh Khajavikhan
+  *	**Haoqin Deng**, Mercedeh Khajavikhan
   *	Submitted to Optica, OSA
 
 Researches:
@@ -79,7 +79,7 @@ Researches:
     * balance partitionioned MST computing nodes for efficient parallel computation, using METIS
   * Worked on optimization of VQE(Variational Quantum Eigen-solver) algorithm
     * self-implemented VQE circuits with pyqpanda
-    * optimized VQE measurement overhead through joint measurement of commuting Hamiltonians, projecting LI basis terms onto qubit computational basis using stabilizer formalism
+    * optimized VQE measurement overhead through joint measurement of commuting Hamiltonians; projecting LI basis terms onto qubit computational basis using stabilizer formalism
     * attempted pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
 
 * **USC IMEDE Lab**<br/>	
