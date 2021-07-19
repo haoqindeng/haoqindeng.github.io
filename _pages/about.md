@@ -44,7 +44,7 @@ Researches:
   *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – present*
   * Developed VLSI circuits of excitatory/inhibitory synapse, Axon Hillock, STDP-dopamine-noise synapse,  dendritic spiking, edge detector, voltage adder
   * Constructed hardware & software multi-layer neural networks incorporating local STDP update and global dopamine modulation, using Cadence & Python
-  * Currently developing a pytorch library that 
+  * Currently developing a Python library that 
     * allows for convenient construction of software neural network for training & verification purpose
     * synthesizes VLSI circuits corresponding to software neural network model for deployment purpose
 
@@ -58,8 +58,8 @@ Researches:
 * **USC Laboratory for Photons, Electrons and Materials**<br/>
   *Research Assistant; Supervised by* ***Prof. Rehan Kapadia****; Jun 2020 – Jan 2021*
   *	Researched on various architectures of mapping ANN/SNN onto hardware using semiconductor devices that mimic functions of synapses, neurons
-  *	Simulated a temporal-encoded convolutional SNN on MNIST digit recognition task with pytorch and GPU acceleration, incorporating InP-synapse STDP parameters; achieved 89% accuracy
-  *	Simulated a rate-encoded SNN on MNIST digit recognition task with pytorch and GPU acceleration, incorporating InP-synapse STDP parameters, with 71% accuracy
+  *	Simulated a temporal-encoded convolutional SNN on MNIST digit recognition task with PyTorch and GPU acceleration, incorporating InP-synapse STDP parameters; achieved 89% accuracy
+  *	Simulated a rate-encoded SNN on MNIST digit recognition task with PyTorch and GPU acceleration, incorporating InP-synapse STDP parameters, with 71% accuracy
   *	Collaborated on designing Arduino/breadboard implementation of neural networks, utilizing a crossbar array of InP transistors.
   *	Grew InP on GaAs using Low-Temperature Templated Liquid-Phase(LT-TLP)  technique.
 
@@ -137,7 +137,7 @@ Programing/Software:
 * Python 
 * C/C++
 * Java
-* Pytorch
+* PyTorch
 * Qiskit
 * pyqpanda
 * Verilog
