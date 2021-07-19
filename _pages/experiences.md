@@ -28,8 +28,8 @@ Researches:
   *	Researched on various architectures of mapping ANN/SNN onto hardware using semiconductor devices that mimic functions of synapses, neurons
   *	Simulated a rate-encoded convolutional SNN on MNIST digit recognition task with Pytorch and GPU acceleration, incorporating InP-synapse STDP parameters, with 71% accuracy
   *	Simulated a temporal-encoded SNN on MNIST digit recognition task with Python and GPU acceleration, incorporating InP-synapse STDP parameters; achieved 89% accuracy
-  *	Collaborated on designing Arduino/breadboard implementation of neural networks, utilizing a crossbar array of InP transistors.
-  *	Grew InP on GaAs using Low-Temperature Templated Liquid-Phase(LT-TLP)  technique.
+  *	Collaborated on designing Arduino/breadboard implementation of neural networks, utilizing a crossbar array of InP transistors
+  *	Grew InP on GaAs using Low-Temperature Templated Liquid-Phase(LT-TLP)  technique
 
 * **USC ALCHEM Lab**<br/>
   *Research Assistant; Supervised by* ***Prof. Xuehai Qian****; May 2019 – Sept 2020*
