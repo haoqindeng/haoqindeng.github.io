@@ -24,7 +24,7 @@ My personal hobbies include reading sci-fi/fan-fi/detective novels, playing Hear
 The complete CV can be found here: [CV.pdf](https://haoqindeng.github.io/images/cv.pdf)
 
 Publications
-======
+------
 * AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation
   *	Accepted. [Preprint](https://arxiv.org/abs/2003.00376)
   *	Jinglei Cheng, **Haoqin Deng**, Xuehai Qian
@@ -36,7 +36,7 @@ Publications
   *	Submitted to Optica, OSA
 
 Programming/Software Skills:
-======
+------
 * Python 
 * C/C++
 * Java
@@ -47,7 +47,7 @@ Programming/Software Skills:
 * Cadence
 
 Researches:
-======
+------
 
 * **BioRC Group**<br/>
   *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – present*
@@ -90,7 +90,7 @@ Researches:
 
 
 Internships
-======
+------
 
 * Summer Internship, Shanghai AIKE Measurement Co. (July 2018 – August 2018)
   *	Automated printers to print labels on a pipeline using Labview
@@ -98,7 +98,7 @@ Internships
   *	Kept track of daily tasks and progress for the team
 
 Hackthones
-======
+------
 
 * Mobile App: Go Eat
   *	Developed a cross-platform app that recommends restaurants based on users’ preferences
@@ -111,7 +111,7 @@ Hackthones
 
 
 Class Projects
-======
+------
 * CMOS VLSI 
   *	Implemented a 32 bit MAC unit with Brent-kung Adder and Array Multiplier; 
   *	Created schematics and drew layouts using Cadence
@@ -143,7 +143,7 @@ Class Projects
 
 
 Related Course
-======
+------
 * EE301: Linear Systems 
 * EE370: Electromagnetism 
 * EE354: Introduction to Digital Circuits
