@@ -23,15 +23,15 @@ My personal hobbies include reading sci-fi/fan-fi/detective novels, playing Hear
 
 Skills
 ======
-Programming/Software
-  * Python
-  * C/C++
-  * Java
-  * Pytorch
-  * Qiskit
-  * pyqpanda
-  * Verilog
-  * Cadence
+Programming/Software:<br/>
+ , Python
+ , C/C++
+ , Java
+ , Pytorch
+ , Qiskit
+ , pyqpanda
+ , Verilog
+ , Cadence
 
 Publications
 ======
