@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently an undergraduate student at the Department of Electrical and Computer Engineering, University of Southern California. I am expected to receive B.S./M.S. degrees in Electrical and Computer Engineering in 2022. For complete CV, please see here: [CV.pdf](https://haoqindeng.github.io/images/cv.pdf)
+I am currently an undergraduate student at the Department of Electrical and Computer Engineering, University of Southern California. I am expected to receive B.S./M.S. degrees in Electrical and Computer Engineering in 2022. 
 
 My current research interests include:
 
@@ -19,7 +19,12 @@ My current research interests include:
 * Machine Learning Acceleration with Emerging Technologies
 * Software/Hardware Co-design
 
-My software/programming skills include: 
+My personal hobbies include reading sci-fi/fan-fi/detective novels, playing Hearthstone, cooking dark cuisines.
+
+The complete CV can be found here: [CV.pdf](https://haoqindeng.github.io/images/cv.pdf)
+
+Programming/Software Skills:
+======
 Python, 
 C/C++,
 Java,
@@ -28,8 +33,6 @@ Qiskit,
 pyqpanda,
 Verilog,
 Cadence,
-
-My personal hobbies include reading sci-fi/fan-fi/detective novels, playing Hearthstone, cooking dark cuisines.
 
 Publications
 ======
