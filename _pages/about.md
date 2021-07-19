@@ -27,12 +27,12 @@ Publications
 ======
 * **AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation**
   *	Accepted. [Preprint](https://arxiv.org/abs/2003.00376)
-  *	*Jinglei Cheng,* ***Haoqin Deng*** *, Xuehai Qian*
+  *	Jinglei Cheng, **Haoqin Deng**, Xuehai Qian
   *	2020 Annual International Symposium on Computer Architecture, ISCA
 
 * **Parity-time symmetric optical neural networks**
   *	Under review.
-  *	***Haoqin Deng*** *, Mercedeh Khajavikhan*
+  *	**Haoqin Deng**, Mercedeh Khajavikhan
   *	Submitted to Optica, OSA
 
 
