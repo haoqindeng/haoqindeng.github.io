@@ -25,14 +25,14 @@ The complete CV can be found here: [CV.pdf](https://haoqindeng.github.io/images/
 
 Programming/Software Skills:
 ======
-Python, 
-C/C++,
-Java,
-Pytorch,
-Qiskit,
-pyqpanda,
-Verilog,
-Cadence,
+* Python 
+* C/C++
+* Java
+* Pytorch
+* Qiskit
+* pyqpanda
+* Verilog
+* Cadence
 
 Publications
 ======
