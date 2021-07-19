@@ -35,16 +35,7 @@ Publications
   *	**Haoqin Deng**, Mercedeh Khajavikhan
   *	Submitted to Optica, OSA
 
-Programming/Software Skills:
-------
-* Python 
-* C/C++
-* Java
-* Pytorch
-* Qiskit
-* pyqpanda
-* Verilog
-* Cadence
+
 
 Researches:
 ------
@@ -140,7 +131,17 @@ Class Projects
   *	Developed an accelerometer running on Arduino
   *	Integrated a rotary encoder to set threshold and a buzzer to present speed, controlled by interrupt
 
-
+Skills:
+------
+Programing/Software:
+* Python 
+* C/C++
+* Java
+* Pytorch
+* Qiskit
+* pyqpanda
+* Verilog
+* Cadence
 
 Related Course
 ------
