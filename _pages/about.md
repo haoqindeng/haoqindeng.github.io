@@ -23,17 +23,6 @@ My personal hobbies include reading sci-fi/fan-fi/detective novels, playing Hear
 
 The complete CV can be found here: [CV.pdf](https://haoqindeng.github.io/images/cv.pdf)
 
-Programming/Software Skills:
-======
-* Python 
-* C/C++
-* Java
-* Pytorch
-* Qiskit
-* pyqpanda
-* Verilog
-* Cadence
-
 Publications
 ======
 * AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation
@@ -139,6 +128,17 @@ Class Projects
 * Accelerometer
   *	Developed an accelerometer running on Arduino
   *	Integrated a rotary encoder to set threshold and a buzzer to present speed, controlled by interrupt
+
+Programming/Software Skills:
+======
+* Python 
+* C/C++
+* Java
+* Pytorch
+* Qiskit
+* pyqpanda
+* Verilog
+* Cadence
 
 Related Course
 ======
