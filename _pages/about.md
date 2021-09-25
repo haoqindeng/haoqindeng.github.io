@@ -40,20 +40,18 @@ Publications
 Researches:
 ======
 
-* **BioRC Group**<br/>
-  *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – present*
-  * Developed VLSI circuits of excitatory/inhibitory synapse, Axon Hillock, STDP-dopamine-noise synapse,  dendritic spiking, edge detector, voltage adder
-  * Constructed hardware & software multi-layer neural networks incorporating local STDP update and global dopamine modulation, using Cadence & Python
-  * Currently developing a Python library that 
-    * allows for convenient construction of software neural network for training & verification purpose
-    * synthesizes VLSI circuits corresponding to software neural network model for deployment purpose
-
 * **Khajavikhan Optics and Photonics Group**<br/>
   *Research Assistant; Supervised by* ***Prof. Mercedeh Khajavikhan****; Jun 2021 – present*
-  * Researched on various architectures of Optical Neural Network(ONN), with an emphasis on chip-integrable setups
+  * Researched on various architectures of Optical Neural Network(ONN), Quantum Optical Neural Network(QONN), Coherent Variable(CV) Quantum Computation
   * Proposed and developed PT-ONN architecture with cascading PT-symmetric couplers, based on modulations of gain/loss contrast; implemented simulations of on-chip training of PT-ONN using finite difference method with python; achieved 67% training accuracy on MNIST
-  * Worked on ewbm simulations of directional couplers in COMSOL; calculated system transfer matrix of PT couplers with Mathematica
+  * Worked on simulations of directional couplers in COMSOL; calculated system transfer matrix of PT couplers with Mathematica
   * Reproduced on-chip training of MZI-based ONN with python; achieved 71% training accuracy on MNIST
+
+* **BioRC Group**<br/>
+  *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – August 2021*
+  * Developed VLSI circuits of excitatory/inhibitory synapse, Axon Hillock, STDP-dopamine-noise synapse,  dendritic spiking, edge detector, voltage adder
+  * Constructed hardware & software multi-layer neural networks incorporating local STDP update and global dopamine modulation, using Cadence & Python
+  * Currently developing a program that synthesizes VLSI circuits corresponding to software neural network model for deployment purpose
 
 * **USC Laboratory for Photons, Electrons and Materials**<br/>
   *Research Assistant; Supervised by* ***Prof. Rehan Kapadia****; Jun 2020 – Jan 2021*
@@ -61,7 +59,7 @@ Researches:
   *	Simulated a temporal-encoded convolutional SNN on MNIST digit recognition task with PyTorch and GPU acceleration, incorporating InP-synapse STDP parameters; achieved 89% accuracy
   *	Simulated a rate-encoded SNN on MNIST digit recognition task with PyTorch and GPU acceleration, incorporating InP-synapse STDP parameters, with 71% accuracy
   *	Collaborated on designing Arduino/breadboard implementation of neural networks, utilizing a crossbar array of InP transistors.
-  *	Grew InP on GaAs using Low-Temperature Templated Liquid-Phase(LT-TLP)  technique.
+  *	Grew InP on GaAs using Low-Temperature Templated Liquid-Phase(LT-TLP) technique.
 
 * **USC ALCHEM Lab**<br/>
   *Research Assistant; Supervised by* ***Prof. Xuehai Qian****; May 2019 – Sept 2020*
@@ -70,7 +68,7 @@ Researches:
     * generated optimized pulse for each component using QOC
     * balance partitionioned MST computing nodes for efficient parallel computation, using METIS
   * Worked on optimization of VQE(Variational Quantum Eigen-solver) algorithm
-    * self-implemented VQE circuits with pyqpanda
+    * worked on circuit-level implementation of VQE with pyqpanda
     * optimized VQE measurement overhead through joint measurement of commuting Hamiltonians; projecting LI basis terms onto qubit computational basis using stabilizer formalism
     * attempted pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
 
@@ -145,6 +143,7 @@ Programing/Software:
 
 Related Course
 ======
+* EE514: Quantum Error Correction
 * EE301: Linear Systems 
 * EE370: Electromagnetism 
 * EE354: Introduction to Digital Circuits
