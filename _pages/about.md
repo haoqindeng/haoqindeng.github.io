@@ -19,7 +19,7 @@ My current research interests include:
 * Machine Learning Acceleration with Emerging Technologies
 * Software/Hardware Co-design
 
-My personal hobbies include reading sci-fi/fan-fi/detective novels, playing Hearthstone, cooking dark cuisines.
+My personal interests include reading sci-fi/fan-fi/detective novels, playing Hearthstone, cooking dark cuisines.
 
 The complete CV can be found here: [CV.pdf](https://haoqindeng.github.io/images/cv.pdf)
 
@@ -31,9 +31,9 @@ Publications
   *	2020 Annual International Symposium on Computer Architecture, ISCA
 
 * **Parity-time symmetric optical neural networks**
-  *	Under review.
+  *	Accepted.
   *	**Haoqin Deng**, Mercedeh Khajavikhan
-  *	Submitted to Optica, OSA
+  *	Optica, OSA
 
 
 
