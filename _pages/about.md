@@ -39,11 +39,11 @@ Publications
 
 Researches:
 ======
-**Optical Computing**<br/>
+* **Spiking Neural Networks**<br/>
   *Research Assistant; Supervised by* ***Prof. Peter Beerel****; September 2021 – present*
-* Currently developing an RNN-SNN framework that
-  * converts analog LSTM to spiking LSTM through weight transfer and spike-domain finetuning
-  * allows pipelined inference on SNN hardware.
+  * Currently developing an RNN-SNN framework that
+    * converts analog LSTM to spiking LSTM through weight transfer and spike-domain finetuning
+    * allows pipelined inference on SNN hardware.
 
 * **Optical Computing**<br/>
   *Research Assistant; Supervised by* ***Prof. Mercedeh Khajavikhan****; Jun 2021 – present*
