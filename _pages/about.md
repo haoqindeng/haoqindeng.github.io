@@ -45,7 +45,7 @@ Researches:
     * converts analog LSTM to spiking LSTM through weight transfer and spike-domain finetuning
     * allows pipelined inference on SNN hardware.
 
-* **Optical Computing**<br/>
+* **Optical computing**<br/>
   *Research Assistant; Supervised by* ***Prof. Mercedeh Khajavikhan****; Jun 2021 – present*
   * Researched on various architectures of Optical Neural Network(ONN), Quantum Optical Neural Network(QONN), Coherent Variable(CV) Quantum Computation
   * Proposed and developed PT-ONN architecture with cascading PT-symmetric couplers, based on modulations of gain/loss contrast; implemented simulations of on-chip training of PT-ONN using finite difference method with python; achieved 67% training accuracy on MNIST
@@ -58,7 +58,7 @@ Researches:
   * Constructed hardware & software multi-layer neural networks incorporating local STDP update and global dopamine modulation, using Cadence & Python
   * Currently developing a program that synthesizes VLSI circuits corresponding to software neural network model for deployment purpose
 
-* **in-memory computing with InP memristor**<br/>
+* **In-memory computing with InP memristor**<br/>
   *Research Assistant; Supervised by* ***Prof. Rehan Kapadia****; Jun 2020 – Jan 2021*
   *	Researched on various architectures of mapping ANN/SNN onto hardware using semiconductor devices that mimic functions of synapses, neurons
   *	Simulated a temporal-encoded convolutional SNN on MNIST digit recognition task with PyTorch and GPU acceleration, incorporating InP-synapse STDP parameters; achieved 89% accuracy
@@ -66,7 +66,7 @@ Researches:
   *	Collaborated on designing Arduino/breadboard implementation of neural networks, utilizing a crossbar array of InP transistors.
   *	Grew InP on GaAs using Low-Temperature Templated Liquid-Phase(LT-TLP) technique.
 
-* **Quantum Computing**<br/>
+* **Quantum computing**<br/>
   *Research Assistant; Supervised by* ***Prof. Xuehai Qian****; May 2019 – Sept 2020*
   * Developed Accelerating Quantum Optimal Control (accQOC), a comprehensive compilation methodology that accelerates pulse generation by 9X 
     * partitioned DAG of quantum circuit into sub-components under size constraint
@@ -77,7 +77,7 @@ Researches:
     * optimized VQE measurement overhead through joint measurement of commuting Hamiltonians; projecting LI basis terms onto qubit computational basis using stabilizer formalism
     * attempted pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
 
-* **Signal Sampling**<br/>	
+* **Signal sampling**<br/>	
   *Research Assistant; Supervised by* ***Prof. Manual Monge****; Mar 2019 – Mar 2020*
   * Corroborated on designing a neural-signal sampling device
   * Realized data transfer between FPGA and PC using Opal-Kelly’s API; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end with matplotlib library
