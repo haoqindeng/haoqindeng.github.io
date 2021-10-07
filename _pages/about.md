@@ -162,13 +162,14 @@ Related Course
 * EE459: Embedded System Design Laboratory
 * EE520: Introduction to Quantum Computing
 * EE582: Neuromorphic Computing
-* EE540: Quantum Electronics 
+* EE540: Quantum Electronics
+* CSCI527: Applied Machine Learning in Games
 * CSCI201: Pinciple of Software Engineering
 * CSCI270: Introduction to Algorithms and Theory of Computing
 * CSCI104: Objected Oriented Programming
 * CSCI353: Internetworking
-* Math 407: Propability Theory
-* Math 445: Mathematics of Physics and Engineering
+* Math407: Propability Theory
+* Math445: Mathematics of Physics and Engineering
 * Phys438: Introduction to Quantum Mechanics
 * Phys304: Mechanics
 * ITP445: Professional C++
