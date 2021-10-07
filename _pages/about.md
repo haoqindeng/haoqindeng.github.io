@@ -39,21 +39,26 @@ Publications
 
 Researches:
 ======
+**Optical Computing**<br/>
+  *Research Assistant; Supervised by* ***Prof. Peter Beerel****; September 2021 – present*
+* Currently developing an RNN-SNN framework that
+  * converts analog LSTM to spiking LSTM through weight transfer and spike-domain finetuning
+  * allows pipelined inference on SNN hardware.
 
-* **Khajavikhan Optics and Photonics Group**<br/>
+* **Optical Computing**<br/>
   *Research Assistant; Supervised by* ***Prof. Mercedeh Khajavikhan****; Jun 2021 – present*
   * Researched on various architectures of Optical Neural Network(ONN), Quantum Optical Neural Network(QONN), Coherent Variable(CV) Quantum Computation
   * Proposed and developed PT-ONN architecture with cascading PT-symmetric couplers, based on modulations of gain/loss contrast; implemented simulations of on-chip training of PT-ONN using finite difference method with python; achieved 67% training accuracy on MNIST
   * Worked on simulations of directional couplers in COMSOL; calculated system transfer matrix of PT couplers with Mathematica
   * Reproduced on-chip training of MZI-based ONN with python; achieved 71% training accuracy on MNIST
 
-* **BioRC Group**<br/>
+* **CMOS neuromorpic circuits**<br/>
   *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – August 2021*
   * Developed VLSI circuits of excitatory/inhibitory synapse, Axon Hillock, STDP-dopamine-noise synapse,  dendritic spiking, edge detector, voltage adder
   * Constructed hardware & software multi-layer neural networks incorporating local STDP update and global dopamine modulation, using Cadence & Python
   * Currently developing a program that synthesizes VLSI circuits corresponding to software neural network model for deployment purpose
 
-* **USC Laboratory for Photons, Electrons and Materials**<br/>
+* **in-memory computing with InP memristor**<br/>
   *Research Assistant; Supervised by* ***Prof. Rehan Kapadia****; Jun 2020 – Jan 2021*
   *	Researched on various architectures of mapping ANN/SNN onto hardware using semiconductor devices that mimic functions of synapses, neurons
   *	Simulated a temporal-encoded convolutional SNN on MNIST digit recognition task with PyTorch and GPU acceleration, incorporating InP-synapse STDP parameters; achieved 89% accuracy
@@ -61,7 +66,7 @@ Researches:
   *	Collaborated on designing Arduino/breadboard implementation of neural networks, utilizing a crossbar array of InP transistors.
   *	Grew InP on GaAs using Low-Temperature Templated Liquid-Phase(LT-TLP) technique.
 
-* **USC ALCHEM Lab**<br/>
+* **Quantum Computing**<br/>
   *Research Assistant; Supervised by* ***Prof. Xuehai Qian****; May 2019 – Sept 2020*
   * Developed Accelerating Quantum Optimal Control (accQOC), a comprehensive compilation methodology that accelerates pulse generation by 9X 
     * partitioned DAG of quantum circuit into sub-components under size constraint
@@ -72,7 +77,7 @@ Researches:
     * optimized VQE measurement overhead through joint measurement of commuting Hamiltonians; projecting LI basis terms onto qubit computational basis using stabilizer formalism
     * attempted pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
 
-* **USC IMEDE Lab**<br/>	
+* **Signal Sampling**<br/>	
   *Research Assistant; Supervised by* ***Prof. Manual Monge****; Mar 2019 – Mar 2020*
   * Corroborated on designing a neural-signal sampling device
   * Realized data transfer between FPGA and PC using Opal-Kelly’s API; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end with matplotlib library
@@ -100,7 +105,10 @@ Hackthones
 
 
 Class Projects
-======
+* RL in games
+  * Developed customized gym-compatible, overhead-shooting game environment with pygame
+  * Trained AI agents to achieve close to full score with Deep Q learning (DQN), written with PyTorch
+  * Currently extending the current framework to allow multi-player collaboration
 * CMOS VLSI 
   *	Implemented a 32 bit MAC unit with Brent-kung Adder and Array Multiplier; 
   *	Created schematics and drew layouts using Cadence
