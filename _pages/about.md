@@ -52,7 +52,7 @@ Researches:
   * Worked on simulations of directional couplers in COMSOL; calculated system transfer matrix of PT couplers with Mathematica
   * Reproduced on-chip training of MZI-based ONN with python; achieved 71% training accuracy on MNIST
 
-* **CMOS neuromorpic circuits**<br/>
+* **CMOS neuromorpic circuits**<br/> [Report.pdf](https://haoqindeng.github.io/images/report.pdf)
   *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – August 2021*
   * Developed VLSI circuits of excitatory/inhibitory synapse, Axon Hillock, STDP-dopamine-noise synapse,  dendritic spiking, edge detector, voltage adder
   * Constructed hardware & software multi-layer neural networks incorporating local STDP update and global dopamine modulation, using Cadence & Python
