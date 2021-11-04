@@ -26,37 +26,36 @@ The complete CV can be found here: [CV.pdf](https://haoqindeng.github.io/images/
 Publications
 ======
 * **AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation**
-  *	Accepted. [Preprint](https://arxiv.org/abs/2003.00376)
+  *	Published. [Link](https://arxiv.org/abs/2003.00376)
   *	Jinglei Cheng, **Haoqin Deng**, Xuehai Qian
-  *	2020 Annual International Symposium on Computer Architecture, ISCA
+  *	International Symposium on Computer Architecture (ISCA), May, 2020.
 
 * **Parity-time symmetric optical neural networks**
-  *	Accepted.
+  *	Published. [Link](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-10-1328&id=460568)
   *	**Haoqin Deng**, Mercedeh Khajavikhan
-  *	Optica, OSA
+  *	Optica, Oct., 2021.
 
 
 
 Researches:
 ======
+
+* **Optical computing**<br/>
+  *Research Assistant; Supervised by* ***Prof. Mercedeh Khajavikhan****; Jun 2021 – present*
+  * Researched on various architectures of Optical Neural Network(ONN), Quantum Optical Neural Network(QONN), Continuous/Discrete Variable Quantum Computation
+  * Developed PT-ONN architecture with cascading PT-symmetric couplers, based on modulations of gain/loss contrast; implemented simulations of on-chip training of PT-ONN using finite difference method with python; achieved comparable training accuracy on MNIST dataset; worked on simulations of directional couplers in COMSOL; calculated system transfer matrix of PT couplers with Mathematica
+  * Reproduced on-chip training of MZI-based ONN with python; achieved 71% on-chip training accuracy on MNIST dataset
+
 * **Spiking Neural Networks**<br/>
   *Research Assistant; Supervised by* ***Prof. Peter Beerel****; September 2021 – present*
   * Currently developing an RNN-SNN framework that
     * converts analog LSTM to spiking LSTM through weight transfer and spike-domain finetuning
     * allows pipelined inference on SNN hardware.
 
-* **Optical computing**<br/>
-  *Research Assistant; Supervised by* ***Prof. Mercedeh Khajavikhan****; Jun 2021 – present*
-  * Researched on various architectures of Optical Neural Network(ONN), Quantum Optical Neural Network(QONN), Coherent Variable(CV) Quantum Computation
-  * Proposed and developed PT-ONN architecture with cascading PT-symmetric couplers, based on modulations of gain/loss contrast; implemented simulations of on-chip training of PT-ONN using finite difference method with python; achieved 67% training accuracy on MNIST
-  * Worked on simulations of directional couplers in COMSOL; calculated system transfer matrix of PT couplers with Mathematica
-  * Reproduced on-chip training of MZI-based ONN with python; achieved 71% training accuracy on MNIST
-
-* **CMOS neuromorpic circuits**<br/> [Report.pdf](https://haoqindeng.github.io/images/report.pdf)
+* **CMOS neuromorpic circuits** [Report](https://haoqindeng.github.io/images/report.pdf)<br/> 
   *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – August 2021*
-  * Developed VLSI circuits of excitatory/inhibitory synapse, Axon Hillock, STDP-dopamine-noise synapse,  dendritic spiking, edge detector, voltage adder
-  * Constructed hardware & software multi-layer neural networks incorporating local STDP update and global dopamine modulation, using Cadence & Python
-  * Currently developing a program that synthesizes VLSI circuits corresponding to software neural network model for deployment purpose
+  * Developed custom Spiking LSTM that allows pipelined inferencing
+  * Implemented custom Analog LSTM and Spiking LSTM module with PyTorch; implemented ANN-SNN conversion with weight transfer and spike-domain finetune training; achieved 75% testing accuracy on IMDB dataset.
 
 * **In-memory computing with InP memristor**<br/>
   *Research Assistant; Supervised by* ***Prof. Rehan Kapadia****; Jun 2020 – Jan 2021*
