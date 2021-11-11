@@ -80,7 +80,7 @@ Internships
   * Used Labview to automate a printer to print labels on a streamline
   * Assisted in designing the structure of a dispenser
 
-Hackthones
+Activities
 ======
 
 * Mobile App: Go Eat
