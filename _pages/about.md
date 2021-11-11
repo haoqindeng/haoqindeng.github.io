@@ -25,61 +25,51 @@ The complete CV can be found here: [CV.pdf](https://haoqindeng.github.io/images/
 
 Publications
 ======
-* **AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation**
-  *	Published. [Link](https://arxiv.org/abs/2003.00376)
-  *	Jinglei Cheng, **Haoqin Deng**, Xuehai Qian
-  *	International Symposium on Computer Architecture (ISCA), May, 2020.
 
 * **Parity-time symmetric optical neural networks**
   *	Published. [Link](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-10-1328&id=460568)
   *	**Haoqin Deng**, Mercedeh Khajavikhan
   *	Optica, Oct., 2021.
 
-
+* **AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation**
+  *	Published. [Link](https://arxiv.org/abs/2003.00376)
+  *	Jinglei Cheng, **Haoqin Deng**, Xuehai Qian
+  *	International Symposium on Computer Architecture (ISCA), May, 2020.
 
 Researches:
 ======
 
 * **Optical computing**<br/>
   *Research Assistant; Supervised by* ***Prof. Mercedeh Khajavikhan****; Jun 2021 – present*
-  * Researched on various architectures of Optical Neural Network(ONN), Quantum Optical Neural Network(QONN), Continuous/Discrete Variable Quantum Computation
-  * Developed PT-ONN architecture with cascading PT-symmetric couplers, based on modulations of gain/loss contrast; implemented simulations of on-chip training of PT-ONN using finite difference method with python; achieved comparable training accuracy on MNIST dataset; worked on simulations of directional couplers in COMSOL; calculated system transfer matrix of PT couplers with Mathematica
-  * Reproduced on-chip training of MZI-based ONN with python; achieved 71% on-chip training accuracy on MNIST dataset
+  * Researched various architectures of Optical Neural Network(ONN), Quantum Optical Neural Network(QONN), Continuous/Discrete Variable Quantum Computation
+  * Developed PT-ONN architecture with cascading PT-symmetric couplers, based on modulations of gain/loss contrasts; implemented simulations of on-chip training of PT-ONN using finite difference method with Python; achieved 68% training accuracy on MNIST dataset; simulated directional couplers in COMSOL; verified system transfer matrix of PT couplers with Mathematica
+  * Reproduced on-chip training of MZI-based ONN with Python; achieved 71% on-chip training accuracy on MNIST dataset
+  * Investigated the detrimental effect of V-shaped, intensity-dependent optical nonlinearity on VGG network architecture
 
-* **Spiking Neural Networks**<br/>
-  *Research Assistant; Supervised by* ***Prof. Peter Beerel****; September 2021 – present*
-  * Currently developing an RNN-SNN framework that
-    * converts analog LSTM to spiking LSTM through weight transfer and spike-domain finetuning
-    * allows pipelined inference on SNN hardware.
-
-* **CMOS neuromorpic circuits** [Report](https://haoqindeng.github.io/images/report.pdf)<br/> 
+* **CMOS neuromorpic circuits** 
   *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – August 2021*
-  * Developed custom Spiking LSTM that allows pipelined inferencing
-  * Implemented custom Analog LSTM and Spiking LSTM module with PyTorch; implemented ANN-SNN conversion with weight transfer and spike-domain finetune training; achieved 75% testing accuracy on IMDB dataset.
-
-* **In-memory computing with InP memristor**<br/>
-  *Research Assistant; Supervised by* ***Prof. Rehan Kapadia****; Jun 2020 – Jan 2021*
-  *	Researched on various architectures of mapping ANN/SNN onto hardware using semiconductor devices that mimic functions of synapses, neurons
-  *	Simulated a temporal-encoded convolutional SNN on MNIST digit recognition task with PyTorch and GPU acceleration, incorporating InP-synapse STDP parameters; achieved 89% accuracy
-  *	Simulated a rate-encoded SNN on MNIST digit recognition task with PyTorch and GPU acceleration, incorporating InP-synapse STDP parameters, with 71% accuracy
-  *	Collaborated on designing Arduino/breadboard implementation of neural networks, utilizing a crossbar array of InP transistors.
-  *	Grew InP on GaAs using Low-Temperature Templated Liquid-Phase(LT-TLP) technique.
+  * Developed VLSI circuits of excitatory/inhibitory synapse, Axon Hillock, STDP-dopamine-noise synapse, dendritic spiking, edge detector, voltage adder, using Cadence; designed transistors to operate at subthreshold regime; obtained ideal biological waveforms for each circuit component
+  * Designed a multi-layer neural network with edge-detection, STDP-synapse, and dopamine-modulation layers; used PyTorch to simulate the network topology, spike propagation, and synaptic weight update, with hardware-realistic parameters; achieved unity accuracy on self-designed four-class, nine-pixel dataset
+  * [Report](https://haoqindeng.github.io/images/report.pdf)<br/> 
 
 * **Quantum computing**<br/>
   *Research Assistant; Supervised by* ***Prof. Xuehai Qian****; May 2019 – Sept 2020*
-  * Developed Accelerating Quantum Optimal Control (accQOC), a comprehensive compilation methodology that accelerates pulse generation by 9X 
-    * partitioned DAG of quantum circuit into sub-components under size constraint
-    * generated optimized pulse for each component using QOC
-    * balance partitionioned MST computing nodes for efficient parallel computation, using METIS
-  * Worked on optimization of VQE(Variational Quantum Eigen-solver) algorithm
-    * worked on circuit-level implementation of VQE with pyqpanda
-    * optimized VQE measurement overhead through joint measurement of commuting Hamiltonians; projecting LI basis terms onto qubit computational basis using stabilizer formalism
-    * attempted pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
+  * Developed Accelerating Quantum Optimal Control (accQOC), a comprehensive compilation methodology that accelerates pulse generation by 9x:
+    * partitioned the DAG of quantum circuit into sub-components under size constraints, using Qiskit
+    * concatenated QOC pulses of each components using dynamic programming
+    * balance partitionioned the MST of computing nodes for efficient parallel computation, using METIS
+  * Worked on the optimization of VQE(Variational Quantum Eigen-solver) algorithm:
+    * worked on circuit-level implementation of VQE with pyQpanda
+    * optimized VQE measurement overhead through joint measurement of commuting Hamiltonians; projecting linearly-independent basis terms onto qubit computational basis using stabilizer formalism
+    * worked on pulse-level optimization of VQE circuits using Qiskit open-pulse and QOC
 
-* **Signal sampling**<br/>	
-  *Research Assistant; Supervised by* ***Prof. Manual Monge****; Mar 2019 – Mar 2020*
-  * Corroborated on designing a neural-signal sampling device
-  * Realized data transfer between FPGA and PC using Opal-Kelly’s API; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end with matplotlib library
+* **In-memory computing with InP memristor**<br/>
+  *Research Assistant; Supervised by* ***Prof. Rehan Kapadia****; Jun 2020 – Jan 2021*
+  *	Researched various architectures of mapping ANN/SNN onto hardware using semiconductor devices that mimic synapses, neurons
+  * Simulated a temporal-encoded convolutional Spiking Neural Network(SNN) and a rate-encoded SNN with PyTorch, incorporating InP-synapse STDP parameters; achieved 89 & 91% training accuracies respectively, on MNIST dataset
+  * Collaborated on designing Arduino/breadboard implementation of neural networks, utilizing a crossbar array of InP memristors
+  * Grew InP using the Low-Temperature Templated Liquid-Phase(LT-TLP) technique
+
 
 
 Internships
