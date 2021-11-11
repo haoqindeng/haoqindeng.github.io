@@ -46,7 +46,7 @@ Researches:
   * Reproduced on-chip training of MZI-based ONN with Python; achieved 71% on-chip training accuracy on MNIST dataset
   * Investigated the detrimental effect of V-shaped, intensity-dependent optical nonlinearity on VGG network architecture
 
-* **CMOS neuromorpic circuits** 
+* **CMOS neuromorpic circuits**<br/>
   *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – August 2021*
   * Developed VLSI circuits of excitatory/inhibitory synapse, Axon Hillock, STDP-dopamine-noise synapse, dendritic spiking, edge detector, voltage adder, using Cadence; designed transistors to operate at subthreshold regime; obtained ideal biological waveforms for each circuit component
   * Designed a multi-layer neural network with edge-detection, STDP-synapse, and dopamine-modulation layers; used PyTorch to simulate the network topology, spike propagation, and synaptic weight update, with hardware-realistic parameters; achieved unity accuracy on self-designed four-class, nine-pixel dataset
@@ -76,25 +76,30 @@ Internships
 ======
 
 * Summer Internship, Shanghai AIKE Measurement Co. (July 2018 – August 2018)
-  *	Automated printers to print labels on a pipeline using Labview
-  *	Corroborated on designing the structure of a dispenser for lab usage
-  *	Kept track of daily tasks and progress for the team
+  *	Learned to use Labview to sample data and control hardware
+  * Used Labview to automate a printer to print labels on a streamline
+  * Assisted in designing the structure of a dispenser
 
 Hackthones
 ======
 
 * Mobile App: Go Eat
-  *	Developed a cross-platform app that recommends restaurants based on users’ preferences
-  *	Developed KNN and genetic models to recommend restaurants given users’ and restaurants’ features
-  *	Implemented data fetching as storage using Firebase
+  *	Developed a cross-platform app that recommends restaurants according to users’ preferences
+  * Developed KNN and genetic models to recommend restaurants based on users’ and restaurants’ features
+  * Implemented data fetching and storage using Firebase
 * Desktop Game: Mind Palace
-  *	Developed a game that trains players’”Mine Palace”  mnemonic technique
-  *	Designed game stages and implemented them with SDL library 
-  *	Extract key information from sentences with Google Cloud API for grading purpose
+  *	Developed a game that trains players to master ”Mind Palace” mnemonic technique
+  * Designed game stages and implemented them with SDL library
+  * Extracted key information from sentences with Google Cloud API
+* Neural Signal Sampling
+  * Collaborated on designing a neural-signal sampling device
+  * Realized data transfer between FPGA and PC using Opal-Kelly’s API; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end with matplotlib library
+
+
 
 
 Class Projects
-* RL in games
+* Reinforcement Learning in Games
   * Developed customized gym-compatible, overhead-shooting game environment with pygame
   * Trained AI agents to achieve close to full score with Deep Q learning (DQN), written with PyTorch
   * Currently extending the current framework to allow multi-player collaboration
