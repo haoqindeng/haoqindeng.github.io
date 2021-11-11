@@ -99,6 +99,7 @@ Hackthones
 
 
 Class Projects
+======
 * Reinforcement Learning in Games
   * Developed customized gym-compatible, overhead-shooting game environment with pygame
   * Trained AI agents to achieve close to full score with Deep Q learning (DQN), written with PyTorch
