@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently an undergraduate student at the Department of Electrical and Computer Engineering, University of Southern California. I am expected to receive B.S./M.S. degrees in Electrical and Computer Engineering in 2022. 
+I am currently an undergraduate student at the Department of Electrical and Computer Engineering, University of Southern California. I am expected to receive B.S degrees in Electrical and Computer Engineering in 2022. 
 
 My current research interests include:
 
@@ -83,15 +83,15 @@ Internships
 Activities
 ======
 
-* Mobile App: Go Eat
+* **Mobile App: Go Eat**
   *	Developed a cross-platform app that recommends restaurants according to users’ preferences
   * Developed KNN and genetic models to recommend restaurants based on users’ and restaurants’ features
   * Implemented data fetching and storage using Firebase
-* Desktop Game: Mind Palace
+* **Desktop Game: Mind Palace**
   *	Developed a game that trains players to master ”Mind Palace” mnemonic technique
   * Designed game stages and implemented them with SDL library
   * Extracted key information from sentences with Google Cloud API
-* Neural Signal Sampling
+* **Neural Signal Sampling**
   * Collaborated on designing a neural-signal sampling device
   * Realized data transfer between FPGA and PC using Opal-Kelly’s API; implemented SPI protocol to transfer data between FPGAs; visualized data on PC end with matplotlib library
 
@@ -100,35 +100,35 @@ Activities
 
 Class Projects
 ======
-* Reinforcement Learning in Games
+* **Reinforcement Learning in Games**
   * Developed customized gym-compatible, overhead-shooting game environment with pygame
   * Trained AI agents to achieve close to full score with Deep Q learning (DQN), written with PyTorch
   * Currently extending the current framework to allow multi-player collaboration
-* CMOS VLSI 
+* **CMOS VLSI** 
   *	Implemented a 32 bit MAC unit with Brent-kung Adder and Array Multiplier; 
   *	Created schematics and drew layouts using Cadence
-* Parallel Programming	
+* **Parallel Programming**
   *	Developed grayscale-to-color image conversion using CNN
   *	Converted python model into C++ model using keras2cpp library
   *	Parallelized convolution-layer computation using OpenMP and Pthread library
-* Video Game Programming	
+* **Video Game Programming**	
   *	Implemented 2D classical Arcade games such as Zelda, Super Mario, PAC-MAN
   *	Implemented 3D games such as Mario Cars, FPS, Parkor game
   *	Programmed game engines using C++ and SDL libraries
-* FPGA Arcade Game “SPLATOON”
+* **FPGA Arcade Game “SPLATOON”**
   *	Designed a 2D-board Splatoon game that runs on a Xilinx FPGA Spartan 6, implemented with Verilog
   *	Integrated joystick module for user control and VGA module for image display 
-* Web Game “Mission Universe”
+* **Web Game “Mission Universe”**
   *	Created a web-based, multiplayer jet-fighting game, using HTML, JavaScript, Java
   *	Utilized Phaser API to construct game elements and WebSocket to transmit data in multiplayer mode
-* Home Light System IoT Project
+* **Home Light System IoT Project**
   *	Developed a remote light control system running on Raspberry Pi
   *	Fetched data from light sensor and transmit it through OpenMote
   *	Utilized MQTT library to transmit data and control illumination
-* Code Compiler
+* **Code Compiler**
   *	Implemented a compiler that parses a realistic program into tree structure, with Bison and C++
   *	Generated assembly language and computed values of variables and memories
-* Accelerometer
+* **Accelerometer**
   *	Developed an accelerometer running on Arduino
   *	Integrated a rotary encoder to set threshold and a buzzer to present speed, controlled by interrupt
 
