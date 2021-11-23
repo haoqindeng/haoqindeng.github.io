@@ -35,7 +35,7 @@ Publications
 * **AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation**
   *	Jinglei Cheng, **Haoqin Deng**, Xuehai Qian
   *	International Symposium on Computer Architecture (ISCA), May, 2020.
-  * [PDF](https://arxiv.org/abs/2003.00376.pdf), [SLIDES](https://docs.google.com/presentation/d/1axy5mV14oSG08vWh7tF4VN6wQ9bVRVwXNK0sJfZjPgM/edit#slide=id.p)
+  * [PDF](https://arxiv.org/pdf/2003.00376.pdf), [SLIDES](https://docs.google.com/presentation/d/1axy5mV14oSG08vWh7tF4VN6wQ9bVRVwXNK0sJfZjPgM/edit#slide=id.p)
 
 Researches:
 ======
