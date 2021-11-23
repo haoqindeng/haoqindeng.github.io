@@ -15,7 +15,8 @@ My current research interests include:
 
 * Optical/Photonic Computing
 * Quantum Computing
-* Neuromorphic ICs
+* CMOS Neuromorphic Circuits
+* Spiking Neural Networks
 * Machine Learning Acceleration with Emerging Technologies
 * Software/Hardware Co-design
 
@@ -27,14 +28,14 @@ Publications
 ======
 
 * **Parity-time symmetric optical neural networks**
-  *	Published. [Link](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-10-1328&id=460568)
   *	**Haoqin Deng**, Mercedeh Khajavikhan
   *	Optica, Oct., 2021.
+  * [PDF](https://www.osapublishing.org/DirectPDFAccess/79A24C4A-376B-4DC7-A11FA9DBB1F4DD55_460568/optica-8-10-1328.pdf?da=1&id=460568&seq=0&mobile=no), [SLIDES](https://docs.google.com/presentation/d/1XzsGmUK8dy9Yh141qB497mno4hSBjfXrwpHvSLL8eCU/edit#slide=id.p)
 
 * **AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation**
-  *	Published. [Link](https://arxiv.org/abs/2003.00376)
   *	Jinglei Cheng, **Haoqin Deng**, Xuehai Qian
   *	International Symposium on Computer Architecture (ISCA), May, 2020.
+  * [PDF](https://arxiv.org/abs/2003.00376.pdf), [SLIDES](https://docs.google.com/presentation/d/1axy5mV14oSG08vWh7tF4VN6wQ9bVRVwXNK0sJfZjPgM/edit#slide=id.p)
 
 Researches:
 ======
@@ -48,7 +49,8 @@ Researches:
 * **Spiking Neural Networks: Long Short-Term Memory (LSTM)**<br/>	
   *Research Assistant, supervised by* ***Prof. Peter Bereel****；Aug 2021 - present*
   * Developed custom Spiking LSTM that allows pipelined inferencing
-  * Implemented custom Analog LSTM and Spiking LSTM module with PyTorch; Implemented RNN-to-SNN conversion through weight transfer and spike-timing-dependent plasticity (STDP) training; achieved 85%, 96% testing accuracy on IMDB, temporal-MNIST datasets
+  * Implemented custom Analog LSTM and Spiking LSTM module with PyTorch; 
+  * Implemented RNN-to-SNN conversion through weight transfer and spike-timing-dependent plasticity (STDP) training; achieved 85%, 96% testing accuracy on IMDB, temporal-MNIST datasets
 
 * **CMOS neuromorpic circuits**<br/>
   *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – August 2021*
