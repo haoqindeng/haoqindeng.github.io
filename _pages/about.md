@@ -45,6 +45,10 @@ Researches:
   * Developed PT-ONN architecture with cascading PT-symmetric couplers, based on modulations of gain/loss contrasts; implemented simulations of on-chip training of PT-ONN using finite difference method with Python; achieved 68% training accuracy on MNIST dataset; simulated directional couplers in COMSOL; verified system transfer matrix of PT couplers with Mathematica
   * Reproduced on-chip training of MZI-based ONN with Python; achieved 71% on-chip training accuracy on MNIST dataset
   * Investigated the detrimental effect of V-shaped, intensity-dependent optical nonlinearity on VGG network architecture
+* **Spiking Neural Networks: Long Short-Term Memory (LSTM)**<br/>	
+  *Research Assistant, supervised by* ***Prof. Peter Bereel****；Aug 2021 - present*
+  * Developed custom Spiking LSTM that allows pipelined inferencing
+  * Implemented custom Analog LSTM and Spiking LSTM module with PyTorch; Implemented RNN-to-SNN conversion through weight transfer and spike-timing-dependent plasticity (STDP) training; achieved 85%, 96% testing accuracy on IMDB, temporal-MNIST datasets
 
 * **CMOS neuromorpic circuits**<br/>
   *Research Assistant; Supervised by* ***Prof. Alice Parker****; Jun 2021 – August 2021*
