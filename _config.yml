@@ -86,7 +86,7 @@ author:
   location         : "LA, CA, USA"
   employer         :
   # pubmed           : 
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "haoqinde@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
