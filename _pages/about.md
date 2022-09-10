@@ -8,10 +8,11 @@ redirect_from:
   - /about.md
 ---
 
+I am an incoming PhD student at the University of Washington in Seattle, Department of Electrical and Computer Engineering.
 
-I am currently an undergraduate student at the Department of Electrical and Computer Engineering, University of Southern California. I am expected to receive B.S degrees in Electrical and Computer Engineering in 2022. 
+I graduated from the University of Southern California, Viterbi School of Engineering. I received my B.S in Electrical and Computer Engineering and my M.S. in Electrical Engineering in 2022. 
 
-My current research interests include:
+My current/past research interests include:
 
 * Optical/Photonic Computing
 * Quantum Computing
