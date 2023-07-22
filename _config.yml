@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haoqin Deng"
   avatar           : "profile.jpg"
-  bio              : "USC undergraduate student"
-  location         : "LA, CA, USA"
+  bio              : "Incoming PhD student at University of Washington in Seattle"
+  location         : "Seattle, WA, USA"
   employer         :
   # pubmed           : 
   googlescholar    : "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Haoqin+Deng&btnG="
-  email            :  "haoqinde@usc.edu"
+  email            :  "haoqinde@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
